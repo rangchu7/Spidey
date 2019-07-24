@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "568909698579",
+    "firebase_url": "https://spydy-c40c2.firebaseio.com",
+    "project_id": "spydy-c40c2",
+    "storage_bucket": "spydy-c40c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:568909698579:android:5c4534fd382fb4ce",
+        "android_client_info": {
+          "package_name": "com.example.decentralize"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "568909698579-qf9ul7qkt7u8keuupvnacovs7rr77bad.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.decentralize",
+            "certificate_hash": "20da85a249b89dc5b80e79731ea8470fdba45857"
+          }
+        },
+        {
+          "client_id": "568909698579-q3t6n83pfsdbnf4r6lvpp0kuchfmacqr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmmvB1wg77D0t0n532WdVwenvB6PwwuN8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "568909698579-q3t6n83pfsdbnf4r6lvpp0kuchfmacqr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

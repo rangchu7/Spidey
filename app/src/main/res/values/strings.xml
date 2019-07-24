@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Decentralize</string>
+    <string name="normalText">By default current time would be choosen as crawling time.</string>
+</resources>
